@@ -1,0 +1,23 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/root/Desktop/LeoLinux Custom Applications.desktop]
+row=0
+col=1
+
+[/root/Desktop/firefox.desktop]
+row=3
+col=0
+
+[Trash]
+row=1
+col=0
+
+[/]
+row=2
+col=0
+
+[/root]
+row=0
+col=0
+
